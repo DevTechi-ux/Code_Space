@@ -60,7 +60,7 @@ export default function Header3() {
               <Image
                 priority
                 width={100}
-                height={33}
+                height={80}
                 className="logo-secondary"
                 src={LogoWhite2}
                 alt="Moibile Logo"

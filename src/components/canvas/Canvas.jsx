@@ -196,7 +196,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   </li>
                   <li>
                     <div className="header_title d-flex">
-                      <Link href={"/digital-marketing"}>Digital Marketing</Link>
+                      <Link href={"/digital-marketing"}>Digital School</Link>
                       {/* <div className="accordian-btn">
                         {accordion === 3 ? (
                           <a onClick={() => openData(0)}>-</a>
