@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger, SplitText, chroma } from "@/plugins";
 import Link from "next/link.js";
-import SiteLogoWhite from "../../../public/assets/imgs/logo/site-logo-white-2.png";
+import SiteLogoWhite from "../../../public/assets/imgs/logo/footer-logo-white.png";
 import Image from "next/image.js";
 
 gsap.registerPlugin(ScrollTrigger);
@@ -183,9 +183,9 @@ export default function Footer1() {
                     <li>
                       <Link href="/contact">contact</Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link href="/service">Service</Link>
-                    </li>
+                    </li> */}
                     {/* <li>
                       <Link href="/faq">FAQs</Link>
                     </li> */}

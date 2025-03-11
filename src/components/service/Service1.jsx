@@ -48,7 +48,7 @@ const Service1 = () => {
                 scrollTrigger: {
                   trigger: image,
                   scrub: 1,
-                  start: "top top-=600",
+                  start: "top top-=500",
                   markers: false,
                 },
               });
@@ -212,8 +212,7 @@ const Service1 = () => {
                           <li>+ Consistency	</li>
                           <li>+ Affordance</li>
                           <li>+ Accessibility	</li>
-                          <li>+ Usability</li>
-                          <li>+ Responsiveness</li>
+                       
 
                         </ul>
                         {/* <div className="btn_wrapper">
@@ -256,7 +255,6 @@ const Service1 = () => {
                           <li>+ Web Development </li>
                           <li>+ Mobile App Development  </li>
                           <li>+ E-commerce Solutions	  </li>
-                          <li>+ Progressive Web Apps (PWAs)	  </li>
                           <li>+ User Interface (UI) & User Experience (UX) Design   </li>
                           <li>+ API Development	</li>
                         </ul>

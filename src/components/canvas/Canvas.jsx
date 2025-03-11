@@ -2,7 +2,7 @@ import { faMagnifyingGlass, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
-import logoWhite2 from "../../../public/assets/imgs/logo/site-logo-white-2.png";
+import logoWhite2 from "../../../public/assets/imgs/logo/footer-logo-white.png";
 import Shape11 from "../../../public/assets/imgs/shape/11.png";
 import Shape12 from "../../../public/assets/imgs/shape/12.png";
 import Image from "next/image";
@@ -89,10 +89,10 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                 </li>
               </ul>
             </div>
-            <div className="offcanvas__links">
+            {/* <div className="offcanvas__links">
               <ul>
                 <li>
-                  <Link href="https://www.stockpip.com/">Stockpip</Link>
+                  <Link href="/software-development">Software Development</Link>
                 </li>
                 <li>
                   <Link href="/contact">contact</Link>
@@ -104,7 +104,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   <Link href="/blog">blog</Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
           <div className="offcanvas__mid">
             <div className="offcanvas__menu-wrapper">
@@ -191,12 +191,12 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   </li>
                   <li>
                     <div className="header_title">
-                      <Link href={"https://www.stockpip.com/"}>StockPip</Link>
+                    <Link href={"/software-development"}>Software Development </Link>
                     </div>
                   </li>
                   <li>
                     <div className="header_title d-flex">
-                      <Link href={"/service"}>SERVICE</Link>
+                      <Link href={"/digital-marketing"}>Digital Marketing</Link>
                       {/* <div className="accordian-btn">
                         {accordion === 3 ? (
                           <a onClick={() => openData(0)}>-</a>

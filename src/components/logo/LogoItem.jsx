@@ -11,7 +11,7 @@ export default function LogoItem() {
           <Image
             priority
             width={100}
-            height={80}
+            height={80 }
             src={LogoBlack}
             alt="Site Logo"
           />
