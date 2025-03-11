@@ -113,20 +113,20 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                   <li>
                     <div className="header_title">
                       <Link href={"/home"}>HOME</Link>
-                      <div className="accordian-btn">
+                      {/* <div className="accordian-btn">
                         {accordion === 1 ? (
                           <a onClick={() => openData(0)}>-</a>
                         ) : (
                           <a onClick={() => openData(1)}>+</a>
                         )}
-                      </div>
+                      </div> */}
                     </div>
-                    <ul
+                    {/* <ul
                       className="sub_title"
                       style={
                         accordion === 1 ? { display: "" } : { display: "none" }
                       }
-                    >
+                    > */}
                       {/* <li>
                         <Link href={"/digital-marketing"}>
                           Digital Maketing
@@ -137,7 +137,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           Digital Maketing dark
                         </Link>
                       </li> */}
-                      <li>
+                      {/* <li>
                         <Link href={"/software-development"}>Software Development </Link>
                       </li>
                       <li>
@@ -152,7 +152,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                         <Link href={"/digital-marketing-dark"}>
                           Digital Marketing Dark
                         </Link>
-                      </li>
+                      </li> */}
                       {/* <li>
                         <Link href={"/creative-agency"}>creative Agency</Link>
                       </li>
@@ -187,7 +187,7 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
                           personal Portfolio dark
                         </Link>
                       </li> */}
-                    </ul>
+                    {/* </ul> */}
                   </li>
                   <li>
                     <div className="header_title">

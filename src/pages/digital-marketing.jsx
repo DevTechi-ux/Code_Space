@@ -77,7 +77,7 @@ const DigitalMarketing = () => {
   return (
     <div>
       <Head>
-        <title>Digital Marketing</title>
+        <title>Digital School</title>
         <meta name="description" content="Digital Marketing Description" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
