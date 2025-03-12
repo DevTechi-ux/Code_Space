@@ -117,7 +117,7 @@ const DigitalMarketingService = () => {
                     </ul>
                   </div>
                   <div className="service__btn-3">
-                    <div className="btn_wrapper">
+                    {/* <div className="btn_wrapper">
                        <Link
                         href="/service-details"
                         className="wc-btn-black btn-hover btn-item"
@@ -125,7 +125,7 @@ const DigitalMarketingService = () => {
                         <span></span> Details
                         <i className="fa-solid fa-arrow-right"></i>
                       </Link> 
-                    </div>
+                    </div> */}
                   </div>
 
                   <div
