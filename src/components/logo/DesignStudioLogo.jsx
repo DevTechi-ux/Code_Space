@@ -6,7 +6,7 @@ const DesignStudioLogo = () => {
   return (
     <>
       <div className="header__logo-2">
-        <Link href={"/design-studio"}>
+        <Link href={"/home"}>
           <Image
             priority
             style={{ width: "100px", height: "80px" }}
