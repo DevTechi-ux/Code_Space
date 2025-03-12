@@ -95,14 +95,14 @@ const DesignStudioAbout = () => {
               </h2>
               <div className="brand__list-2">
                 <div className="brand__item-2 fade_bottom">
-                  <a href="https://www.stockpip.com/"><Image
+                  {/* <a href="https://www.stockpip.com/"><Image
                     priority
                     width={120}
                     height={100}
                     src={Brand}
                     alt="Brand Logo"
                   />
-                  </a>
+                  </a> */}
                 </div>
                 {/* <div className="brand__item-2 fade_bottom">
                   <Image

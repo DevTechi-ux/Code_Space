@@ -21,7 +21,7 @@ export default function Home() {
       <main>
         <RootLayout header="header1" footer="footer1">
           <DigitalMarketingHero />
-          <DigitalMarketingBrand />
+          {/* <DigitalMarketingBrand /> */}
           <DigitalMarketingAbout />
           <DigitalMarketingService />
           <DigitalMarketingProtfolio />

@@ -75,8 +75,9 @@ const DigitalMarketingHero = () => {
             <div className="col-xxl-12">
               <div className="hero__inner-3">
                 <div className="sec-title-wrapper">
-                  <h2 className="sec-sub-title">hello</h2>
-                  <h3 className="sec-title title-left" ref={titleLeft}>
+                  <h2 className="sec-sub-title ">hello</h2>
+                  <h3
+                   className=" sec-title title-left " ref={titleLeft}>
                     I am
                   </h3>
                   <h4 className="sec-title title-right" ref={titleRight}>

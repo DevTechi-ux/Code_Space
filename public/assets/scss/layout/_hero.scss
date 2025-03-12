@@ -250,29 +250,29 @@
       .sec-title {
         z-index: 2;
         font-weight: 600;
-        font-size: 306px;
+        font-size: 200px;
         line-height: 0.82;
         text-transform: uppercase;
         color: var(--black-2);
 
         @media #{$xxl} {
-          font-size: 260px;
+          font-size: 200px;
         }
 
         @media #{$xl} {
-          font-size: 260px;
+          font-size: 200px;
         }
 
         @media #{$lg} {
-          font-size: 180px;
+          font-size: 150px;
         }
 
         @media #{$md} {
-          font-size: 130px;
+          font-size: 100px;
         }
 
         @media #{$sm} {
-          font-size: 90px;
+          font-size: 50px;
         }
       }
 
