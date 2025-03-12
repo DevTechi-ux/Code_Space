@@ -60,12 +60,12 @@ const DigitalMarketingPrice = () => {
                 <Accordion defaultActiveKey="0" className="accordion">
                   <Accordion.Item eventKey="0" className="accordion-item">
                     <Accordion.Header>
-                    What services does Techi provide?	
+                    What services does CodeSpace provide?	
                     </Accordion.Header>
                     <Accordion.Body>
                       <div>
                         <p>		
-                        Techi offers software development, digital marketing, app development, game development, and white-label SaaS solutions.							
+                        CodeSpace offers software development, digital marketing, app development, game development, and white-label SaaS solutions.							
                         </p>
                       </div>
                     </Accordion.Body>
@@ -73,7 +73,7 @@ const DigitalMarketingPrice = () => {
 
                   <Accordion.Item eventKey="1" className="accordion-item">
                     <Accordion.Header>
-                    How can Techi help my business grow?		
+                    How can CodeSpace help my business grow?		
                     </Accordion.Header>
                     <Accordion.Body>
                       <div>
@@ -86,7 +86,7 @@ const DigitalMarketingPrice = () => {
 
                   <Accordion.Item eventKey="2" className="accordion-item">
                     <Accordion.Header>
-                    What makes Techi’s software solutions unique?		
+                    What makes CodeSpace software solutions unique?		
                     </Accordion.Header>
                     <Accordion.Body>
                       <div>
@@ -99,7 +99,7 @@ const DigitalMarketingPrice = () => {
 
                   <Accordion.Item eventKey="3" className="accordion-item">
                     <Accordion.Header>
-                    Does Techi offer tailored marketing strategies?			
+                    Does CodeSpace offer tailored marketing strategies?			
                     </Accordion.Header>
                     <Accordion.Body>
                       <div>

@@ -45,17 +45,17 @@ const Contact1 = () => {
                 </h3>
                 <ul>
                   <li>
-                    <a href="tel:+(2)578365379">+91 6262900053  </a>
+                    <a href="tel:+(91)626608403">+91 626608403  </a>
                   </li>
                   <li>
-                    <a href="tel:+(2)578365379">+91 6265644167  </a>
+                    <a href="tel:+(91)7415246332">+91 7415246332 </a>
                   </li>
                   <li>
-                    <a href="techie.today700@gmail.com">techi.today700@gmial.com</a>
+                    <a href="spingh0813@gmail.com">spingh0813@gmial.com</a>
                   </li>
                   <li>
                     <span>
-                      Babylon capital 5th floor front of currency tower  <br /> Raipur Chhattisgarh (India) 
+                      26/5-A,Dakshin Gangotri  <br /> Bhilai Chhattisgarh (India) 
                     </span>
                   </li>
                 </ul>

@@ -116,35 +116,35 @@ const DigitalMarketingTestimonial = () => {
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                        When we talk about Techi, it's not just about the technology; it's about transforming businesses, helping them navigate through the digital landscape with confidence and innovation.										
+                        When we talk about CodeSpace, it's not just about the technology; it's about transforming businesses, helping them navigate through the digital landscape with confidence and innovation.										
                         </p>
-                        <h2 className="client__name-3">— [Shivam singh]	</h2>
+                        <h2 className="client__name-3">— [Shrishty Singh]	</h2>
                         <h3 className="client__role-3"> Director</h3>
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                        When we see Techi helping other businesses grow, it validates our purpose—creating meaningful, impactful solutions that truly make a difference in the market.									
+                        When we see CodeSpace helping other businesses grow, it validates our purpose—creating meaningful, impactful solutions that truly make a difference in the market.									
                         </p>
-                        <h2 className="client__name-3">— [Suresh choudhary]	</h2>
+                        <h2 className="client__name-3">— [Ankita Singh]	</h2>
                         <h3 className="client__role-3">Director</h3>
                       </div>
                      </SwiperSlide>
-                    {/* <SwiperSlide>
+                     <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
-                          When we talk about Alts, we do not mean a typical
+                          When we talk about CodeSpace, we do not mean a typical
                           business partner, but rather a team that collaborates
                           with us daily, always there for us when we encounter
                           difficulties and celebrate achievements. We see in
                           Alts our best ally for success!
                         </p>
-                        <h2 className="client__name-3">Maria D. Halk</h2>
-                        <h3 className="client__role-3">Managing Director</h3>
+                        <h2 className="client__name-3">— [Priyanshu Singh]	</h2>
+                        <h3 className="client__role-3">Director</h3>
                       </div>
                     </SwiperSlide>
-                    <SwiperSlide>
+                    {/* <SwiperSlide>
                       <div className="testimonial__slide-3">
                         <p>
                           When we talk about Alts, we do not mean a typical

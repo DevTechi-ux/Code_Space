@@ -119,15 +119,16 @@ export default function Footer4() {
                 <div className="footer__item-6">
                   <h2 className="footer__item-title">Contact Us</h2>
                   <ul className="footer__info-6">
-                    <li>Valentin, Street Road 24, New York, USA - 67452</li>
+                    <li>26/5-A,Dakshin Gangotri,Supela Bhilai(C.G)</li>
                     <li>
                       <a href="tel:02574328301" className="phone">
-                      +91 6262900053{" "}
+                    Sales: +91 {"6266608403 "}// Support: +91 {"7415246332"}
                       </a>
+                      
                     </li>
                     <li>
-                      <a href="mailto:info@buildyexample.com">
-                        info@buildyexample.com
+                      <a href="mailto:spingh0813@gmail.com">
+                        spingh0813@gmail.com
                       </a>
                     </li>
                   </ul>
@@ -161,7 +162,7 @@ export default function Footer4() {
                   <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
                     <div className="footer__copyright-6">
                       <p>
-                        © 2022 - 2025 | Alrights reserved by <br />{" Techi "}
+                        © 2022 - 2025 | Alrights reserved by  <br />{" CodeSpace "}
                         
                       </p>
                     </div>

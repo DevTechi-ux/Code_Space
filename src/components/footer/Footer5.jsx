@@ -136,7 +136,7 @@ export default function Footer5() {
         </div>
         <div className="footer__copyright-8">
           <p>
-            © Alrights reserved by{" Techi "}
+            © Alrights reserved by{" CodeSpace "}
             
           </p>
         </div>

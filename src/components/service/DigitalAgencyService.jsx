@@ -249,7 +249,7 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__text">
                         <p>
-                        At Techie we specialize in crafting robust, user-friendly, and scalable digital experiences for businesses of all sizes. 
+                        At CodeSpace we specialize in crafting robust, user-friendly, and scalable digital experiences for businesses of all sizes. 
 
                         </p>
                       </div>
@@ -278,7 +278,7 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__text">
                         <p>
-                        At Techie  we believe that great digital experiences are born from thoughtful and intuitive interaction design.
+                        At CodeSpace  we believe that great digital experiences are born from thoughtful and intuitive interaction design.
                         </p>
                       </div>
                       <div className="service__link">
@@ -306,7 +306,7 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__text">
                         <p>
-                        At Techie  we craft digital marketing strategies that drive growth, engagement, and lasting impact. 
+                        At CodeSpace  we craft digital marketing strategies that drive growth, engagement, and lasting impact. 
 
                         </p>
                       </div>
@@ -334,7 +334,7 @@ const DigitalAgencyService = () => {
                       </div>
                       <div className="service__text">
                         <p>
-                        At Techi, we craft compelling brand identities and strategies that resonate with your target audience.
+                        At CodeSpace, we craft compelling brand identities and strategies that resonate with your target audience.
                         </p>
                       </div>
                       <div className="service__link">

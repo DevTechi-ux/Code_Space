@@ -79,13 +79,14 @@ const DigitalMarketingHero = () => {
                   <h3 className="sec-title title-left" ref={titleLeft}>
                     I am
                   </h3>
-                  <h3 className="sec-title title-right" ref={titleRight}>
+                  <h4 className="sec-title title-right" ref={titleRight}>
                     Code <br /> Space!
-                  </h3>
+                  </h4>
+                  
                 </div>
                 <div className="hero__text-3">
                   <p className="hero__text-animation" ref={heroTextAnim}>
-                  We are a software and digital marketing agency providing full inline presence support for all your business needs. At Techi, we empower businesses with innovative digital solutions, bringing their vision to life through technology.													
+                  We are a software and digital marketing agency providing full inline presence support for all your business needs. At CodeSpace, we empower businesses with innovative digital solutions, bringing their vision to life through technology.													
                   </p>
                 </div>
                 <div className="scroll-down">

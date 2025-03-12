@@ -90,7 +90,7 @@ const DesignStudioHero = () => {
           </div>
           <div className="hero__text-2">
             <p>
-            At Techi, we push the boundaries of software development,  			
+            At CodeSpace, we push the boundaries of software development,  			
             building solutions that drive your digital transformation.
             
             </p>

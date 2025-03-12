@@ -50,11 +50,10 @@ export default function Footer2() {
               <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                 <div className="footer__location-2">
                   <div className="location">
-                    <h3>Raipur</h3>
+                    <h3>Bhilai</h3>
                     <p>
-                      515 office Holtel Babylone Capital <br />
-                      opp. Currency Tower Telibandha  
-                      Raipur Chhattisgarh (492001)
+                      26/5-A,Dakshin Gangotri<br />
+                     Supela Bhilai(C.G)
                     </p>
                   </div>
                   {/* <div className="location">
@@ -93,7 +92,7 @@ export default function Footer2() {
               <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-5">
                 <div className="footer__copyright-2">
                   <p>
-                    © 2022 - 2025 | Alrights reserved by Techi{" "}
+                    © 2022 - 2025 | Alrights reserved by {" CodeSpace"}
                     {/* <a href="https://wealcoder.com/" target="_blank">
                       Wealcoder
                     </a> */}

@@ -80,7 +80,7 @@ export default function Header3() {
           </div>
           <div className="header__support">
             <p>
-              Support center <a href="tel:+9587325902">+91 6265644167</a>
+              Support center <a href="tel:+9587325902">+91 7415246332</a>
             </p>
           </div>
         </div>

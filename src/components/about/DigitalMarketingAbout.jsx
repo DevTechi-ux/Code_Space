@@ -51,7 +51,7 @@ const DigitalMarketingAbout = () => {
               <div className="sec-text-wrapper">
                 <div className="sec-text text-anim">
                   <p>
-                  At Techi, we specialize in delivering cutting-edge solutions for businesses, from software development to a complete digital marketing strategy. We take pride in helping our clients build a strong digital presence that drives success.													
+                  At CodeSpace, we specialize in delivering cutting-edge solutions for businesses, from software development to a complete digital marketing strategy. We take pride in helping our clients build a strong digital presence that drives success.													
                   </p>
                   {/* <div className="btn_wrapper">
                     <Link

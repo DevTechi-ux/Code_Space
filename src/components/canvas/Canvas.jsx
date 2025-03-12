@@ -628,12 +628,12 @@ const Canvas = ({ bladeMode = "", ofCanvasArea }) => {
               <h3>Get in touch</h3>
               <ul>
                 <li>
-                  <a href="tel:02094980547">+91 6262900053</a>
+                  <a href="tel:+917415246332">+91 7415246332</a>
                 </li>
                 <li>
-                  <a href="mailto:info@extradesign.com">techi.today700@gmail.com</a>
+                  <a href="spingh0813@gmail.com">spingh0813@gmail.com</a>
                 </li>
-                <li>515 Office 5th Floor Hotel Babylon Capital opp. Currency Tower Telibandha Raipur Chhattisgarh (492001)</li>
+                <li>26/5-A,Dakshin Gangotri,Supela Bhilai(C.G)</li>
               </ul>
             </div>
             <Image

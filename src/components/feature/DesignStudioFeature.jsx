@@ -72,7 +72,7 @@ const DesignStudioFeature = () => {
               <div className="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
                 <div className="feature__text text-anim">
                   <p>
-                    At Techi constantly rethinking the future by creating the next
+                    At CodeSpace constantly rethinking the future by creating the next
                     generation of products, brands and services from a hybrid
                     perspective. The unthinkable today becomes inevitable.
                   </p>

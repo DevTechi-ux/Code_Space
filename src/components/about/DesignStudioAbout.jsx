@@ -59,7 +59,7 @@ const DesignStudioAbout = () => {
               <div className="sec-text-wrapper">
                 <div className="sec-text text-anim">
                   <p>
-                    At Techi, we have a dedicated team of full-stack developers, designers, and IT experts who are passionate about technology and innovation. Our team is committed to delivering cutting-edge solutions tailored to your needs.
+                    At CodeSpace, we have a dedicated team of full-stack developers, designers, and IT experts who are passionate about technology and innovation. Our team is committed to delivering cutting-edge solutions tailored to your needs.
                   </p>
                 </div>
                 {/* <div className="sec-btn btn_wrapper">

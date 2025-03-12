@@ -20,7 +20,7 @@ const FaqCTA = () => {
                     href="/contact"
                     className="wc-btn-primary btn-hover btn-item"
                   >
-                    <span></span>Contact Us{" "}
+                    <span></span>Contact Us{"7415246332 "}
                     <i className="fa-solid fa-arrow-right"></i>
                   </Link>
                 </div>

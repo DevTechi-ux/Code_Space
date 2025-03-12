@@ -169,7 +169,7 @@ export default function Footer1() {
               <div className="col-xxl-4 col-xl-4 col-lg-4">
                 <div className="footer__copyright-3">
                   <p>
-                    © 2022 - 2025 | Alrights reserved by{" Techi "}
+                    © 2022 - 2025 | Alrights reserved by{" CodeSpace "}
                   
                   </p>
                 </div>
