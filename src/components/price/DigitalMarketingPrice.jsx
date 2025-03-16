@@ -48,7 +48,7 @@ const DigitalMarketingPrice = () => {
       <section className="price__area pt-130 pb-140">
         <div className="container">
           <div className="row">
-            <div className="col-xxl-6 col-xl-6 col-lg-6">
+            <div className="col-xxl col-xl col-lg">
               <div className="sec-title-wrapper">
                 <h2 className="sec-sub-title title-anim">Pricing Table</h2>
                 <h3 className="sec-title title-anim">
@@ -126,59 +126,7 @@ const DigitalMarketingPrice = () => {
               </div>
             </div>
 
-            <div className="col-xxl-6 col-xl-6 col-lg-6">
-              <div className="price__table">
-                <div className="price__item animation_from_bottom">
-                  <div className="price__icon">
-                    <span>
-                      <FontAwesomeIcon icon={faCheck}></FontAwesomeIcon>
-                    </span>
-                  </div>
-                  <div className="price__info">
-                    <h2 className="price__type">Yearly</h2>
-                    <h3 className="price__title">Get Your Product Now</h3>
-                    <p>
-                      Our plan starts from just $100 and automatically renews every year.
-                    </p>
-                  </div>
-                  <div className="price__amount">
-                    <h4 className="best-value">Best Value</h4>
-                    <p>
-                      $100
-                    </p>
-                  </div>
-                </div>
-
-                <div className="price__item animation_from_top">
-                  <div className="price__icon">
-                    <span>
-                      <FontAwesomeIcon icon={faCheck}></FontAwesomeIcon>
-                    </span>
-                  </div>
-                  <div className="price__info">
-                    <h2 className="price__type">Monthly</h2>
-                    <h3 className="price__title">1 Month free</h3>
-                    <p>
-                      Subscription fee is $0 USD .
-                    </p>
-                  </div>
-                  <div className="price__amount">
-                    <p>
-                      $0
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="price__btn btn_wrapper">
-                <Link
-                  href="/contact"
-                  className="wc-btn-black btn-hover btn-item"
-                >
-                  <span></span> Try it <br />
-                  Free Now <i className="fa-solid fa-arrow-right"></i>
-                </Link>
-              </div>
-            </div>
+            
           </div>
         </div>
       </section>
